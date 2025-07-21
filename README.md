@@ -54,7 +54,7 @@ This impactful project was brought to life by a dedicated team of four students 
 
 **Our Brilliant Team:**
 
-*   **[Emmanuel M Jesse]**: [https://github.com/Student1User]
+*   **Emmanuel M Jesse**: https://github.com/Student1User
 *   **[Collaborator 2 Name]**: [Link to Collaborator 2's GitHub Profile]
 *   **[Collaborator 3 Name]**: [Link to Collaborator 3's GitHub Profile]
 *   **[Collaborator 4 Name]**: [Link to Collaborator 4's GitHub Profile]
@@ -106,18 +106,10 @@ MindEase leverages Supabase for a secure and streamlined user authentication exp
 4.  Click "Sign In".
 5.  Upon successful login, you'll be whisked away to your personalized `/dashboard` page!
 
-### Admin Login
-The admin dashboard offers a powerful bird's-eye view of simulated user data and cutting-edge AI recommendation features.
-1.  Navigate to the `/admin/login` page.
-2.  Use these demo credentials:
-    *   **Email:** \`admin@mindease.com\`
-    *   **Password:** \`password123\`
-    *   **Note:** These credentials are purely for demonstration. In a production environment, we'd implement robust admin authentication and role management (e.g., using Supabase RLS and custom roles) for ironclad security.
-3.  Upon successful login, you'll gain access to the `/admin/dashboard` page.
 
 ## 🌐 Deployment
 
-This project is engineered for seamless, one-click deployment on [Vercel](https://vercel.com/)!
+This project is engineered for seamless, one-click deployment on [Vercel](https://v0-mind-ease-clone.vercel.app/)!
 
 1.  **Connect your Git repository** (e.g., GitHub, GitLab, Bitbucket) to your Vercel account.
 2.  **Configure Environment Variables** directly on Vercel:
