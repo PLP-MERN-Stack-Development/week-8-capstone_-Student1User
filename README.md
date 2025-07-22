@@ -55,9 +55,9 @@ This impactful project was brought to life by a dedicated team of four students 
 **Our Brilliant Team:**
 
 *   **Emmanuel M Jesse**: https://github.com/Student1User
-*   **[Collaborator 2 Name]**: [Link to Collaborator 2's GitHub Profile]
-*   **[Collaborator 3 Name]**: [Link to Collaborator 3's GitHub Profile]
-*   **[Collaborator 4 Name]**: [Link to Collaborator 4's GitHub Profile]
+*   **Mary Karago**: https://github.com/Syntax-Symphony
+*   **Redempta Mwikali**: https://github.com/mwikali29 
+
 
 ## 🚀 Getting Started
 
